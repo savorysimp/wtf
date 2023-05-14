@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fighter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Blocking
+  - Actor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Floor
+    uniqueID: 41512453
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Other
+    uniqueID: 3664180711
+    locked: 0
+  - name: Actor
+    uniqueID: 2877539171
+    locked: 0
+  - name: Interactable
+    uniqueID: 2121481737
+    locked: 0
+  - name: Weapon
+    uniqueID: 3449536367
+    locked: 0
